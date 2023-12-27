@@ -1,0 +1,25 @@
+﻿  Source.cpp
+D:\C++_COde\mudassar data\DSA\Indexing_With_Quadratic_Probing\Indexing_With_Quadratic_Probing\Source.cpp(24,1): error C2872: 'size': ambiguous symbol
+D:\C++_COde\mudassar data\DSA\Indexing_With_Quadratic_Probing\Indexing_With_Quadratic_Probing\Source.cpp(6,5): message : could be 'int size'
+D:\C++_COde\mudassar data\DSA\Indexing_With_Quadratic_Probing\Indexing_With_Quadratic_Probing\Source.cpp(24,1): message : or       'size'
+D:\C++_COde\mudassar data\DSA\Indexing_With_Quadratic_Probing\Indexing_With_Quadratic_Probing\Source.cpp(37,1): error C2872: 'size': ambiguous symbol
+D:\C++_COde\mudassar data\DSA\Indexing_With_Quadratic_Probing\Indexing_With_Quadratic_Probing\Source.cpp(6,5): message : could be 'int size'
+D:\C++_COde\mudassar data\DSA\Indexing_With_Quadratic_Probing\Indexing_With_Quadratic_Probing\Source.cpp(37,1): message : or       'size'
+D:\C++_COde\mudassar data\DSA\Indexing_With_Quadratic_Probing\Indexing_With_Quadratic_Probing\Source.cpp(51,1): error C2872: 'size': ambiguous symbol
+D:\C++_COde\mudassar data\DSA\Indexing_With_Quadratic_Probing\Indexing_With_Quadratic_Probing\Source.cpp(6,5): message : could be 'int size'
+D:\C++_COde\mudassar data\DSA\Indexing_With_Quadratic_Probing\Indexing_With_Quadratic_Probing\Source.cpp(51,1): message : or       'size'
+D:\C++_COde\mudassar data\DSA\Indexing_With_Quadratic_Probing\Indexing_With_Quadratic_Probing\Source.cpp(72,1): error C2872: 'size': ambiguous symbol
+D:\C++_COde\mudassar data\DSA\Indexing_With_Quadratic_Probing\Indexing_With_Quadratic_Probing\Source.cpp(6,5): message : could be 'int size'
+D:\C++_COde\mudassar data\DSA\Indexing_With_Quadratic_Probing\Indexing_With_Quadratic_Probing\Source.cpp(72,1): message : or       'size'
+D:\C++_COde\mudassar data\DSA\Indexing_With_Quadratic_Probing\Indexing_With_Quadratic_Probing\Source.cpp(88,1): error C2872: 'size': ambiguous symbol
+D:\C++_COde\mudassar data\DSA\Indexing_With_Quadratic_Probing\Indexing_With_Quadratic_Probing\Source.cpp(6,5): message : could be 'int size'
+D:\C++_COde\mudassar data\DSA\Indexing_With_Quadratic_Probing\Indexing_With_Quadratic_Probing\Source.cpp(88,1): message : or       'size'
+D:\C++_COde\mudassar data\DSA\Indexing_With_Quadratic_Probing\Indexing_With_Quadratic_Probing\Source.cpp(105,11): error C2872: 'size': ambiguous symbol
+D:\C++_COde\mudassar data\DSA\Indexing_With_Quadratic_Probing\Indexing_With_Quadratic_Probing\Source.cpp(6,5): message : could be 'int size'
+D:\C++_COde\mudassar data\DSA\Indexing_With_Quadratic_Probing\Indexing_With_Quadratic_Probing\Source.cpp(105,11): message : or       'size'
+D:\C++_COde\mudassar data\DSA\Indexing_With_Quadratic_Probing\Indexing_With_Quadratic_Probing\Source.cpp(106,22): error C2872: 'size': ambiguous symbol
+D:\C++_COde\mudassar data\DSA\Indexing_With_Quadratic_Probing\Indexing_With_Quadratic_Probing\Source.cpp(6,5): message : could be 'int size'
+D:\C++_COde\mudassar data\DSA\Indexing_With_Quadratic_Probing\Indexing_With_Quadratic_Probing\Source.cpp(106,22): message : or       'size'
+D:\C++_COde\mudassar data\DSA\Indexing_With_Quadratic_Probing\Indexing_With_Quadratic_Probing\Source.cpp(107,26): error C2872: 'size': ambiguous symbol
+D:\C++_COde\mudassar data\DSA\Indexing_With_Quadratic_Probing\Indexing_With_Quadratic_Probing\Source.cpp(6,5): message : could be 'int size'
+D:\C++_COde\mudassar data\DSA\Indexing_With_Quadratic_Probing\Indexing_With_Quadratic_Probing\Source.cpp(107,26): message : or       'size'
